@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
 
 body{
-    background-color: #FFEF91;/*fondo completo de la pagina*/
+    background-color: #red;/*fondo completo de la pagina*/
     color: black;/*color de texto sin fuente propia*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*funte de letra*/
     margin: 0
